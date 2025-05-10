@@ -1,6 +1,5 @@
 # energy-price-forecasting-dnn
-Forecasting daily crude oil and natural gas prices using deep learning models (LSTM, CNN, and Hybrid CNN-LSTM) on historical commodity data from 1997 to 2023.
-# Forecasting Energy Commodity Prices with Deep Neural Networks  
+#ENEL-682-L01-(Winter 2025)
 ## A Case Study on Crude Oil and Natural Gas
 
 ---
